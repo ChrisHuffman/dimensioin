@@ -13,7 +13,7 @@ const Header = (props) => (
         <div className="content">
             <div className="inner">
                 <h1>McAfee Incubator</h1>
-              <p>Turning today's vision into tomorrow's reality.</p>
+              <p>Manifesting today's vision into tomorrow's reality.</p>
             </div>
         </div>
         <nav>
